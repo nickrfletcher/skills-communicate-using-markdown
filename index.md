@@ -1,2 +1,2 @@
-# `<h1>`This is a title!
+# This is a title!
 ### Header 3!
